@@ -32,20 +32,12 @@ How to use argparse to run your python script.
 
 First, make sure you have all of these packages installed: 
 Matplotlib
-CSV
-Math
 Statistics
 Pandas
-Numpy
-Scipy.stats 
+Numpy 
 Scipy.Optimize
-Itertools
 SKlearn.metrics
-Sqrt
 Rpy2
-Re
-Os
-GLOB
 Randomcolor 
 
 TO INPUT A SINGLE FILE, PUT INTO THE TERMINAL:

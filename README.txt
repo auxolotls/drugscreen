@@ -39,6 +39,7 @@ Scipy.Optimize
 SKlearn.metrics
 Rpy2
 Randomcolor 
+rDRC
 
 TO INPUT A SINGLE FILE, PUT INTO THE TERMINAL:
 

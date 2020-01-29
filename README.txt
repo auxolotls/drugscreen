@@ -44,23 +44,23 @@ rDRC
 TO INPUT A SINGLE FILE, PUT INTO THE TERMINAL:
 
 
-python combined_scripts.py --input_file <raw data file> 
+python Combined_Scripts.py --input_file <raw data file> 
 
 TO INPUT A PATH, PUT INTO THE TERMINAL:
 
 
-python combined_scripts.py --input_path <folder path> 
+python Combined_Scripts.py --input_path <folder path> 
 
 TO INPUT A PATH, PUT INTO THE TERMINAL:
 
 
-python combined_scripts.py --combination_drugs drug_1 drug_2 drug_3  --input_file <raw data file>
+python Combined_Scripts.py --combination_drugs drug_1 drug_2 drug_3  --input_file <raw data file>
 
 ^^^ Make sure there is space between the drug names; it is not separated by commas.
 
 If you have multiple graphs with multiple drug combinations, simply go: 
 
-python combined_scripts.py --combination_drugs drug_1 drug_2 drug_3 --combination_drugs drug_6 drug_5 —input_file_combination <raw data file>
+python Combined_Scripts.py --combination_drugs drug_1 drug_2 drug_3 --combination_drugs drug_6 drug_5 —input_file_combination <raw data file>
 
 OUTPUTS
 You will get a PDF/PDFs of your graph(s). 

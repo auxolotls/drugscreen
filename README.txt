@@ -75,3 +75,5 @@ You will also get a textfile containing your IC50s and Scatter Index value for e
 Some files may be created, and then deleted after the script is done running. That is part of the script; it is used to prevent clutter buildup. 
 
 
+TODO:
+Test!
